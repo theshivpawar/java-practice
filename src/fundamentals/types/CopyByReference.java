@@ -3,7 +3,7 @@ package fundamentals.types;
 public class CopyByReference {
     public static void main(String[] args) {
 
-        Point point1 = new Point();
+        Point point1 = new Point(); // Refer Point.java file
         point1.x = 1;
         point1.y = 1;
 
