@@ -6,7 +6,7 @@ public class ReferenceTypes {
         byte age = 30; // Primitive Type
 
 
-        Point point = new Point(); // Reference Type
+        Point point = new Point(); // Reference Type Refer Point.java file
         point.x = 1;
         point.y = 2;
 
