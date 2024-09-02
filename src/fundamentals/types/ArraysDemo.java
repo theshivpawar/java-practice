@@ -12,6 +12,12 @@ public class ArraysDemo {
         numbers[1] = 2;
         numbers[2] = 3;
 
+
+        String name = "Shivam";
+        System.out.println(name.length());
+
+        System.out.println(name);
+
         System.out.println(numbers);
 
         System.out.println(numbers[0]);
@@ -26,6 +32,9 @@ public class ArraysDemo {
 
         int[] numbers3 = {6, 7, 8, 9, 10};
         System.out.println(Arrays.toString(numbers3));
+
+        System.out.println(numbers3.length);
+
 
     }
 }
